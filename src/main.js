@@ -18,7 +18,7 @@ let products = [ //Criação dos produtos
     {
         id: 1,
         name: 'Gorgonzola',
-        image: '1.png',
+        image: 'gorgonzola.png',
         price: 40
     },
     {
