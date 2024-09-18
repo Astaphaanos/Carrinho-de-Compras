@@ -18,37 +18,37 @@ let products = [ //Criação dos produtos
     {
         id: 1,
         name: 'Gorgonzola',
-        image: '1.PNG',
+        image: '1.png',
         price: 40
     },
     {
         id: 2,
         name: 'Cogumelo',
-        image: '2.PNG',
+        image: '2.png',
         price: 42
     },
     {
         id: 3,
         name: 'Peperone',
-        image: '3.PNG',
+        image: '3.png',
         price: 55
     },
     {
         id: 4,
         name: 'Peperone Acebolado',
-        image: '4.PNG',
+        image: '4.png',
         price: 53
     },
     {
         id: 5,
         name: 'Mussarela',
-        image: '5.PNG',
+        image: '5.png',
         price: 57
     },
     {
         id: 6,
         name: 'Frango',
-        image: '6.PNG',
+        image: '6.png',
         price: 60
     }
 ];
